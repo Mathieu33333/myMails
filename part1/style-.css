@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #DADADA;
+    margin: 0px 300px 0px 300px;
+}
+
+.nomtext {
+    flex-direction: column;
+    padding-bottom: 0;
+    flex-wrap: ;
+}
+
+p {
+    font-family: 'Open Sans';
+    font-size: 14px;
+    background-color: #FFFFFF;
+    margin-top: 0;
+}
+
+* {
+    background-color: #F5F6FA;
+}
+
+.poub {
+    height: 15px;
+    margin-top: 40px;
+}
+
+.avatar {
+    height: 60px;
+    margin: 17px;
+}
